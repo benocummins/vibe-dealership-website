@@ -1,0 +1,46 @@
+{
+  "inventory": [
+    {
+      "brand": "Nissan",
+      "model": "Altima",
+      "year": 2020,
+      "price": 24000,
+      "availability": true
+    },
+    {
+      "brand": "Toyota",
+      "model": "Camry",
+      "year": 2021,
+      "price": 26000,
+      "availability": true
+    },
+    {
+      "brand": "Honda",
+      "model": "Civic",
+      "year": 2019,
+      "price": 22000,
+      "availability": false
+    },
+    {
+      "brand": "Nissan",
+      "model": "Rogue",
+      "year": 2022,
+      "price": 30000,
+      "availability": true
+    },
+    {
+      "brand": "Toyota",
+      "model": "Corolla",
+      "year": 2020,
+      "price": 20000,
+      "availability": true
+    },
+    {
+      "brand": "Honda",
+      "model": "Accord",
+      "year": 2021,
+      "price": 28000,
+      "availability": true
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "name": "car-dealership-website",
+  "version": "1.0.0",
+  "description": "A basic car dealership website with a welcome page, inventory display, and management interface.",
+  "main": "src/app.js",
+  "scripts": {
+    "start": "node src/app.js",
+    "test": "echo \"No tests specified\" && exit 0"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "keywords": [
+    "car",
+    "dealership",
+    "website"
+  ],
+  "author": "Your Name",
+  "license": "ISC"
+}
